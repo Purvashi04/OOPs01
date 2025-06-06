@@ -1,5 +1,58 @@
-This is a group project based on the concepts of OOPs, through this project the booking of movie tickets could be done in a simple and easy manner. 
-Movie Ticket Booking System is to facilitate the booking of movie tickets in a theater. The system should provide functionalities for users to view available movies, book tickets for a desired movie, and process ticket bookings. It is based on the concepts of Object Oriented Programming which includes class, inheritance, encapsulation, abstraction and polymorphism. 
-When the user enters '1', all the movies are displayed on the screen. When the user enters '2', the user should pick a movie from the following and then enter the number of movie he wants to watch provided that he has to select the number of available regular and VIP seats. Then finally enter the amount of the tickets and the seats chosen, if the amount is more than the actual amount then the deducted amount is displayed otherwise its displays insufficient funds. When the user enters '3' then the program is exited.
-It allows users to view available movies, select a movie, specify the number of seats they want to book, and complete the booking process by providing the total amount. The system verifies seat availability and payment adequacy before confirming the booking, and it provides feedback to the user accordingly.
-In conclusion, this project provides a basic implementation of a movie ticket booking system using OOPS in C++. By simplifying booking system of tickets, optimizing the transaction process and enhancing data management, the system offers numerous benefits including time savings, improved organization, and a better experience for the users.
+# 🎬 Movie Ticket Booking System - C++ OOP Project
+
+This is a **C++ console-based Movie Ticket Booking System** developed as a group project using **Object-Oriented Programming (OOP)** principles. It allows users to view available movies, book tickets for selected movies, and handle seat selection and payments efficiently.
+
+## 📌 Objective
+
+To create a simple and interactive movie ticket booking system using core OOP concepts such as:
+
+- Classes and Objects
+- Inheritance
+- Encapsulation
+- Abstraction
+- Polymorphism
+
+## 💡 Features
+
+- 🎥 View all available movies
+- 🎟️ Book regular or VIP tickets
+- 🪑 Choose number of seats
+- 💵 Make payment with validation
+- ❌ Display error if funds are insufficient
+- ✅ Show change if payment exceeds total cost
+- 🔚 Exit the system cleanly
+
+## 🧑‍💻 How It Works
+
+1. **Display Movies**:  
+   Enter `1` to view a list of available movies.
+
+2. **Book Tickets**:  
+   Enter `2` to:
+   - Select a movie from the list
+   - Choose number of **Regular** and **VIP** seats
+   - Enter the total amount for the booking
+   - System checks seat availability and payment adequacy
+   - Confirms booking or notifies if funds are insufficient
+
+3. **Exit Program**:  
+   Enter `3` to quit the system.
+
+## 🛠 Technologies Used
+
+- Language: **C++**
+- Concepts: **Object-Oriented Programming**
+- Platform: **Command-line Interface**
+
+## 🧱 OOP Concepts Applied
+
+| Concept         | Usage Description                                 |
+|----------------|----------------------------------------------------|
+| **Class**       | Defined for movies, seats, and booking system     |
+| **Inheritance** | Different seat types or user roles (if extended)  |
+| **Encapsulation** | Secure handling of seat data and payments       |
+| **Abstraction** | Hides internal implementation from the user       |
+| **Polymorphism**| Booking logic variations (extendable feature)     |
+
+
+
