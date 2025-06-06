@@ -38,13 +38,13 @@ To create a simple and interactive movie ticket booking system using core OOP co
 3. **Exit Program**:  
    Enter `3` to quit the system.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Language: **C++**
 - Concepts: **Object-Oriented Programming**
 - Platform: **Command-line Interface**
 
-## 🧱 OOP Concepts Applied
+## OOP Concepts Applied
 
 | Concept         | Usage Description                                 |
 |----------------|----------------------------------------------------|
