@@ -12,7 +12,7 @@ To create a simple and interactive movie ticket booking system using core OOP co
 - Abstraction
 - Polymorphism
 
-## 💡 Features
+## Features
 
 - 🎥 View all available movies
 - 🎟️ Book regular or VIP tickets
@@ -22,7 +22,7 @@ To create a simple and interactive movie ticket booking system using core OOP co
 - ✅ Show change if payment exceeds total cost
 - 🔚 Exit the system cleanly
 
-## 🧑‍💻 How It Works
+## How It Works
 
 1. **Display Movies**:  
    Enter `1` to view a list of available movies.
