@@ -2,7 +2,7 @@
 
 This is a **C++ console-based Movie Ticket Booking System** developed as a group project using **Object-Oriented Programming (OOP)** principles. It allows users to view available movies, book tickets for selected movies, and handle seat selection and payments efficiently.
 
-## 📌 Objective
+## Objective
 
 To create a simple and interactive movie ticket booking system using core OOP concepts such as:
 
