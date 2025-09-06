@@ -14,13 +14,13 @@ To create a simple and interactive movie ticket booking system using core OOP co
 
 ## Features
 
-- 🎥 View all available movies
-- 🎟️ Book regular or VIP tickets
-- 🪑 Choose number of seats
-- 💵 Make payment with validation
-- ❌ Display error if funds are insufficient
-- ✅ Show change if payment exceeds total cost
-- 🔚 Exit the system cleanly
+- View all available movies
+- Book regular or VIP tickets
+- Choose number of seats
+- Make payment with validation
+- Display error if funds are insufficient
+- Show change if payment exceeds total cost
+- Exit the system cleanly
 
 ## How It Works
 
